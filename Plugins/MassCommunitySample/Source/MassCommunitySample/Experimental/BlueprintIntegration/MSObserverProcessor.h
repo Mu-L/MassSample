@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+
 #include "MassEntitySubsystem.h"
 #include "MassObserverRegistry.h"
 #include "Common/Misc/MSBPFunctionLibrary.h"

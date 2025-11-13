@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+
 #include "MassCommunitySample/Common/Misc/MSBPFunctionLibrary.h"
 #include "UObject/Interface.h"
 #include "MassProjectileHitInterface.generated.h"
